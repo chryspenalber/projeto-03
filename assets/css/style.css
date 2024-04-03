@@ -36,3 +36,15 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+
+a:hover {
+    color: navy;
+}
+
+#topo {
+    color: rgb(0, 0, 219);
+}
+
+#topo:hover {
+    color: navy;
+}
